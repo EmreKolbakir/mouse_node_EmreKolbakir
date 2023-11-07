@@ -68,14 +68,5 @@ Ensure each step is run in a separate terminal or use `&` to send processes to t
 
 - The `mouse_subscriber` node listens to the `/mouse_node` topic and outputs the received data to the console for real-time observation.
 
-## Contributing 🤝
-
-Feel free to fork the project, make improvements, and submit pull requests. If you encounter any issues or have suggestions, please open an issue in the [issue tracker](https://github.com/EmreKolbakir/mouse_node_EmreKolbakir/issues).
-
-## License 📄
-
-This project is open-sourced under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
----
 
 Project maintained by [@EmreKolbakir](https://github.com/EmreKolbakir) ✨.
